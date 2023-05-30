@@ -1,11 +1,12 @@
 ### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=ev0clu&color=blue)
 
 My name is Laszlo and I am interested in Web developement. Through working on various projects, I am currently dedicated to expanding my knowledge and expertise in JavaScript technologies. 
 
 - 🌱 I’m currently learning Node.js
 
-
+## Technologies
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ev0clu&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
