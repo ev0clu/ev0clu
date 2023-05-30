@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Laszlo and I am interested in Web developement. Through working on various projects, I am currently dedicated to expanding my knowledge and expertise in JavaScript technologies. 
+
+- 🌱 I’m currently learning Node.js
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ev0clu&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ev0clu/ev0clu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
