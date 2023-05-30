@@ -90,7 +90,9 @@ My name is Laszlo and I am interested in Web developement. Through working on va
       />
       <br /><strong>Webpack</strong>
     </td>
-     <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=firebase"
         width="48"
