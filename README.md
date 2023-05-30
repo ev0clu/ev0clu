@@ -81,6 +81,8 @@ My name is Laszlo and I am interested in Web developement. Through working on va
       />
       <br /><strong>Vite</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=webpack"
@@ -90,8 +92,6 @@ My name is Laszlo and I am interested in Web developement. Through working on va
       />
       <br /><strong>Webpack</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=firebase"
