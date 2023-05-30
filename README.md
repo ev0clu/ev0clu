@@ -61,7 +61,7 @@ My name is Laszlo and I am interested in Web developement. Through working on va
         height="48"
         alt="Tailwind"
       />
-      <br /><strong>Tailwind CSS</strong>
+      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -70,16 +70,16 @@ My name is Laszlo and I am interested in Web developement. Through working on va
         height="48"
         alt="StyledComponents"
       />
-      <br /><strong>Styled Components</strong>
+      <br /><strong>Styled-Components</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://skillicons.dev/icons?i=vite"
+        src="https://skillicons.dev/icons?i=firebase"
         width="48"
         height="48"
-        alt="Vite"
+        alt="Firebases"
       />
-      <br /><strong>Vite</strong>
+      <br /><strong>Firebase</strong>
     </td>
   </tr>
   <tr>
@@ -92,14 +92,14 @@ My name is Laszlo and I am interested in Web developement. Through working on va
       />
       <br /><strong>Webpack</strong>
     </td>
-    <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
       <img
-        src="https://skillicons.dev/icons?i=firebase"
+        src="https://skillicons.dev/icons?i=vite"
         width="48"
         height="48"
-        alt="Firebases"
+        alt="Vite"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Vite</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
