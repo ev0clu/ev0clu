@@ -4,7 +4,9 @@ My name is Laszlo and I am interested in Web developement. Through working on va
 
 - 🌱 I’m currently learning Node.js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ev0clu&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ev0clu&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ev0clu&theme=react)](https://git.io/streak-stats)
 
 <!--
 **ev0clu/ev0clu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
