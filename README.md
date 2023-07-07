@@ -3,8 +3,6 @@
 
 My name is **Laszlo** and I am interested in Web developement. Through working on various projects, I am currently dedicated to expanding my knowledge and expertise in JavaScript technologies. 
 
-- 🌱 I’m currently learning **Node.js**
-
 ## Technologies
 
 <table>
@@ -72,7 +70,36 @@ My name is **Laszlo** and I am interested in Web developement. Through working o
       />
       <br /><strong>Styled-Components</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+   <td align="center" height="108" width="108">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="48"
+        height="48"
+        alt="Express.js"
+      />
+      <br /><strong>Express.js</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="48"
+        height="48"
+        alt="mongoDB"
+      />
+      <br /><strong>mongoDB</strong>
+    </td>
+   <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=firebase"
         width="48"
@@ -81,8 +108,6 @@ My name is **Laszlo** and I am interested in Web developement. Through working o
       />
       <br /><strong>Firebase</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=webpack"
@@ -92,7 +117,7 @@ My name is **Laszlo** and I am interested in Web developement. Through working o
       />
       <br /><strong>Webpack</strong>
     </td>
-     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=vite"
         width="48"
