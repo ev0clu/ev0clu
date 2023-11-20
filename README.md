@@ -36,6 +36,24 @@ My name is **Laszlo** and I am interested in Web developement. Through working o
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://skillicons.dev/icons?i=prisma"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>Prisma</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
         src="https://skillicons.dev/icons?i=html"
         width="48"
         height="48"
@@ -61,7 +79,9 @@ My name is **Laszlo** and I am interested in Web developement. Through working o
       />
       <br /><strong>Tailwind</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+   <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=styledcomponents"
         width="48"
@@ -70,8 +90,6 @@ My name is **Laszlo** and I am interested in Web developement. Through working o
       />
       <br /><strong>Styled-Components</strong>
     </td>
-  </tr>
-  <tr>
    <td align="center" height="108" width="108">
       <img
         src="https://skillicons.dev/icons?i=nodejs"
